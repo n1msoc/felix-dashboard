@@ -15,12 +15,12 @@
   </style>
 </head>
 <body>
-  <div id="reading">245 mg/dL</div>
-  <div id="timestamp">2026-08-11 22:25 &middot; steady</div>
+  <div id="reading">238 mg/dL</div>
+  <div id="timestamp">2026-08-11 22:30 &middot; steady</div>
   <div id="chart-container">
     <canvas id="cgmChart"></canvas>
   </div>
-  <div id="tir">0.0% Time in Range (70&ndash;180 mg/dL, last 17 readings, 1h 25m)</div>
+  <div id="tir">0.0% Time in Range (70&ndash;180 mg/dL, last 18 readings, 1h 30m)</div>
 
   <script>
     function segmentColor(value) {
@@ -34,10 +34,10 @@
     new Chart(ctx, {
       type: 'line',
       data: {
-        labels: ["21:30", "21:30", "21:35", "21:40", "21:45", "21:50", "21:55", "21:55", "21:55", "22:00", "22:05", "22:10", "22:15", "22:20", "22:20", "22:25", "22:25"],
+        labels: ["21:30", "21:30", "21:35", "21:40", "21:45", "21:50", "21:55", "21:55", "21:55", "22:00", "22:05", "22:10", "22:15", "22:20", "22:20", "22:25", "22:25", "22:30"],
         datasets: [{
           label: 'CGM (mg/dL)',
-          data: [190, 190, 193, 194, 197, 203, 210, 210, 210, 219, 225, 229, 234, 240, 240, 245, 245],
+          data: [190, 190, 193, 194, 197, 203, 210, 210, 210, 219, 225, 229, 234, 240, 240, 245, 245, 238],
           borderWidth: 2,
           pointRadius: 0,
           tension: 0.2,
@@ -51,7 +51,21 @@
       options: {
         responsive: true,
         scales: {
-          y: { min: 40, max: 265 },
+          y: {
+            min: 40,
+            max: 265,
+            afterBuildTicks: function(axis) {
+              axis.ticks.push({ value: 70 });
+              axis.ticks.push({ value: 180 });
+              axis.ticks.sort(function(a, b) { return a.value - b.value; });
+            },
+            ticks: {
+              font: function(context) {
+                const v = context.tick ? context.tick.value : null;
+                return (v === 70 || v === 180) ? { weight: 'bold' } : {};
+              }
+            }
+          },
           x: {
             ticks: {
               autoSkip: false,
