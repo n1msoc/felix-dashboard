@@ -148,9 +148,9 @@
     ]
   },
   "daily_totals": {
-    "total_daily_insulin": 18,
-    "tdi_bolus_share": 55,
-    "total_daily_carbs": 160,
+    "total_daily_insulin": 17,
+    "tdi_bolus_share": 50,
+    "total_daily_carbs": 150,
     "last_updated": "2026-08-12"
   }
 }
