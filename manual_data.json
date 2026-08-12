@@ -1,0 +1,155 @@
+{
+  "icr": {
+    "last_change": "2026-08-11",
+    "correction": 125,
+    "slots": [
+      {
+        "start": "0:00",
+        "end": "6:00",
+        "ratio": 30,
+        "changed": false
+      },
+      {
+        "start": "6:00",
+        "end": "9:00",
+        "ratio": 7.5,
+        "changed": true
+      },
+      {
+        "start": "9:00",
+        "end": "12:00",
+        "ratio": 23,
+        "changed": true
+      },
+      {
+        "start": "12:00",
+        "end": "14:30",
+        "ratio": 16,
+        "changed": true
+      },
+      {
+        "start": "14:30",
+        "end": "17:00",
+        "ratio": 12,
+        "changed": true
+      },
+      {
+        "start": "17:00",
+        "end": "19:30",
+        "ratio": 22,
+        "changed": false
+      },
+      {
+        "start": "19:30",
+        "end": "24:00",
+        "ratio": 12,
+        "changed": false
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-08-10",
+        "correction": 150,
+        "correction_changed": false,
+        "slots": [
+          {
+            "start": "0:00",
+            "end": "6:00",
+            "ratio": 30,
+            "changed": false
+          },
+          {
+            "start": "6:00",
+            "end": "9:00",
+            "ratio": 8,
+            "changed": true
+          },
+          {
+            "start": "9:00",
+            "end": "12:00",
+            "ratio": 24,
+            "changed": false
+          },
+          {
+            "start": "12:00",
+            "end": "14:30",
+            "ratio": 17,
+            "changed": true
+          },
+          {
+            "start": "14:30",
+            "end": "17:00",
+            "ratio": 13,
+            "changed": false
+          },
+          {
+            "start": "17:00",
+            "end": "19:30",
+            "ratio": 22,
+            "changed": false
+          },
+          {
+            "start": "19:30",
+            "end": "24:00",
+            "ratio": 12,
+            "changed": false
+          }
+        ]
+      },
+      {
+        "date": "2026-08-11",
+        "correction": 125,
+        "correction_changed": true,
+        "slots": [
+          {
+            "start": "0:00",
+            "end": "6:00",
+            "ratio": 30,
+            "changed": false
+          },
+          {
+            "start": "6:00",
+            "end": "9:00",
+            "ratio": 7.5,
+            "changed": true
+          },
+          {
+            "start": "9:00",
+            "end": "12:00",
+            "ratio": 23,
+            "changed": true
+          },
+          {
+            "start": "12:00",
+            "end": "14:30",
+            "ratio": 16,
+            "changed": true
+          },
+          {
+            "start": "14:30",
+            "end": "17:00",
+            "ratio": 12,
+            "changed": true
+          },
+          {
+            "start": "17:00",
+            "end": "19:30",
+            "ratio": 22,
+            "changed": false
+          },
+          {
+            "start": "19:30",
+            "end": "24:00",
+            "ratio": 12,
+            "changed": false
+          }
+        ]
+      }
+    ]
+  },
+  "daily_totals": {
+    "total_daily_insulin": 17,
+    "tdi_bolus_share": 50,
+    "total_daily_carbs": 150
+  }
+}
