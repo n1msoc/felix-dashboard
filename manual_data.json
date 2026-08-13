@@ -13,7 +13,7 @@
         "start": "6:00",
         "end": "9:00",
         "ratio": 7,
-        "changed": true
+        "changed": false
       },
       {
         "start": "9:00",
