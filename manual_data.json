@@ -36,13 +36,13 @@
       {
         "start": "17:00",
         "end": "19:30",
-        "ratio": 23,
+        "ratio": 22,
         "changed": true
       },
       {
         "start": "19:30",
         "end": "24:00",
-        "ratio": 11,
+        "ratio": 12,
         "changed": true
       }
     ],
@@ -379,13 +379,13 @@
           {
             "start": "17:00",
             "end": "19:30",
-            "ratio": 23,
+            "ratio": 22,
             "changed": true
           },
           {
             "start": "19:30",
             "end": "24:00",
-            "ratio": 11,
+            "ratio": 12,
             "changed": true
           }
         ]
