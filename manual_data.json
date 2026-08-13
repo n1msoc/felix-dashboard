@@ -1,6 +1,6 @@
 {
   "icr": {
-    "last_change": "2026-08-13",
+    "last_change": "2026-08-14",
     "correction": 126,
     "slots": [
       {
@@ -12,8 +12,8 @@
       {
         "start": "6:00",
         "end": "9:00",
-        "ratio": 7.5,
-        "changed": false
+        "ratio": 7,
+        "changed": true
       },
       {
         "start": "9:00",
@@ -387,6 +387,55 @@
             "end": "24:00",
             "ratio": 12,
             "changed": true
+          }
+        ]
+      },
+      {
+        "date": "2026-08-14",
+        "correction": 126,
+        "correction_changed": false,
+        "slots": [
+          {
+            "start": "0:00",
+            "end": "6:00",
+            "ratio": 30,
+            "changed": false
+          },
+          {
+            "start": "6:00",
+            "end": "9:00",
+            "ratio": 7,
+            "changed": true
+          },
+          {
+            "start": "9:00",
+            "end": "12:00",
+            "ratio": 23,
+            "changed": false
+          },
+          {
+            "start": "12:00",
+            "end": "14:30",
+            "ratio": 16,
+            "changed": false
+          },
+          {
+            "start": "14:30",
+            "end": "17:00",
+            "ratio": 12,
+            "changed": false
+          },
+          {
+            "start": "17:00",
+            "end": "19:30",
+            "ratio": 22,
+            "changed": false
+          },
+          {
+            "start": "19:30",
+            "end": "24:00",
+            "ratio": 12,
+            "changed": false
           }
         ]
       }
