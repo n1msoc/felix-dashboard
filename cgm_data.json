@@ -1,11 +1,6 @@
 {
   "series": [
     {
-      "t": "2026-08-13T13:15:42.874000+02:00",
-      "value": 181,
-      "trend": "falling slightly"
-    },
-    {
       "t": "2026-08-13T13:20:42.365000+02:00",
       "value": 172,
       "trend": "falling slightly"
@@ -1493,6 +1488,11 @@
     {
       "t": "2026-08-14T14:40:42.726000+02:00",
       "value": 58,
+      "trend": "falling quickly"
+    },
+    {
+      "t": "2026-08-14T14:45:42.885000+02:00",
+      "value": 47,
       "trend": "falling quickly"
     },
     {
