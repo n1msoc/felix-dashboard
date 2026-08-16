@@ -1,7 +1,7 @@
 {
   "icr": {
-    "last_change": "2026-08-13",
-    "correction": 126,
+    "last_change": "2026-08-10",
+    "correction": 150,
     "slots": [
       {
         "start": "0:00",
@@ -12,44 +12,44 @@
       {
         "start": "6:00",
         "end": "9:00",
-        "ratio": 7.5,
-        "changed": false
+        "ratio": 8,
+        "changed": true
       },
       {
         "start": "9:00",
         "end": "12:00",
-        "ratio": 26,
-        "changed": false
+        "ratio": 24,
+        "changed": true
       },
       {
         "start": "12:00",
         "end": "14:30",
-        "ratio": 15.5,
-        "changed": false
+        "ratio": 17,
+        "changed": true
       },
       {
         "start": "14:30",
         "end": "17:00",
-        "ratio": 12,
-        "changed": false
+        "ratio": 13,
+        "changed": true
       },
       {
         "start": "17:00",
         "end": "19:30",
-        "ratio": 26.5,
+        "ratio": 22,
         "changed": true
       },
       {
         "start": "19:30",
         "end": "24:00",
-        "ratio": 10,
-        "changed": false
+        "ratio": 12,
+        "changed": true
       }
     ],
     "history": [
       {
-        "date": "2026-08-11",
-        "correction": 125,
+        "date": "2026-08-10",
+        "correction": 150,
         "correction_changed": true,
         "slots": [
           {
@@ -61,271 +61,26 @@
           {
             "start": "6:00",
             "end": "9:00",
-            "ratio": 7.5,
+            "ratio": 8,
             "changed": true
           },
           {
             "start": "9:00",
             "end": "12:00",
-            "ratio": 23,
+            "ratio": 24,
             "changed": true
           },
           {
             "start": "12:00",
             "end": "14:30",
-            "ratio": 16,
+            "ratio": 17,
             "changed": true
           },
           {
             "start": "14:30",
             "end": "17:00",
-            "ratio": 12,
+            "ratio": 13,
             "changed": true
-          },
-          {
-            "start": "17:00",
-            "end": "19:30",
-            "ratio": 22,
-            "changed": false
-          },
-          {
-            "start": "19:30",
-            "end": "24:00",
-            "ratio": 12,
-            "changed": false
-          }
-        ]
-      },
-      {
-        "date": "2026-08-12",
-        "correction": 126,
-        "correction_changed": true,
-        "slots": [
-          {
-            "start": "0:00",
-            "end": "6:00",
-            "ratio": 30,
-            "changed": false
-          },
-          {
-            "start": "6:00",
-            "end": "9:00",
-            "ratio": 7.5,
-            "changed": false
-          },
-          {
-            "start": "9:00",
-            "end": "12:00",
-            "ratio": 23,
-            "changed": false
-          },
-          {
-            "start": "12:00",
-            "end": "14:30",
-            "ratio": 16,
-            "changed": false
-          },
-          {
-            "start": "14:30",
-            "end": "17:00",
-            "ratio": 12,
-            "changed": false
-          },
-          {
-            "start": "17:00",
-            "end": "19:30",
-            "ratio": 22,
-            "changed": false
-          },
-          {
-            "start": "19:30",
-            "end": "24:00",
-            "ratio": 12,
-            "changed": false
-          }
-        ]
-      },
-      {
-        "date": "2026-08-12",
-        "correction": 125,
-        "correction_changed": true,
-        "slots": [
-          {
-            "start": "0:00",
-            "end": "6:00",
-            "ratio": 30,
-            "changed": false
-          },
-          {
-            "start": "6:00",
-            "end": "9:00",
-            "ratio": 7.5,
-            "changed": false
-          },
-          {
-            "start": "9:00",
-            "end": "12:00",
-            "ratio": 23,
-            "changed": false
-          },
-          {
-            "start": "12:00",
-            "end": "14:30",
-            "ratio": 16,
-            "changed": false
-          },
-          {
-            "start": "14:30",
-            "end": "17:00",
-            "ratio": 12,
-            "changed": false
-          },
-          {
-            "start": "17:00",
-            "end": "19:30",
-            "ratio": 22,
-            "changed": false
-          },
-          {
-            "start": "19:30",
-            "end": "24:00",
-            "ratio": 12,
-            "changed": false
-          }
-        ]
-      },
-      {
-        "date": "2026-08-13",
-        "correction": 126,
-        "correction_changed": false,
-        "slots": [
-          {
-            "start": "0:00",
-            "end": "6:00",
-            "ratio": 29,
-            "changed": true
-          },
-          {
-            "start": "6:00",
-            "end": "9:00",
-            "ratio": 7.5,
-            "changed": false
-          },
-          {
-            "start": "9:00",
-            "end": "12:00",
-            "ratio": 23,
-            "changed": false
-          },
-          {
-            "start": "12:00",
-            "end": "14:30",
-            "ratio": 16,
-            "changed": false
-          },
-          {
-            "start": "14:30",
-            "end": "17:00",
-            "ratio": 12,
-            "changed": false
-          },
-          {
-            "start": "17:00",
-            "end": "19:30",
-            "ratio": 22,
-            "changed": false
-          },
-          {
-            "start": "19:30",
-            "end": "24:00",
-            "ratio": 12,
-            "changed": false
-          }
-        ]
-      },
-      {
-        "date": "2026-08-13",
-        "correction": 126,
-        "correction_changed": false,
-        "slots": [
-          {
-            "start": "0:00",
-            "end": "6:00",
-            "ratio": 30,
-            "changed": true
-          },
-          {
-            "start": "6:00",
-            "end": "9:00",
-            "ratio": 7.5,
-            "changed": false
-          },
-          {
-            "start": "9:00",
-            "end": "12:00",
-            "ratio": 23,
-            "changed": false
-          },
-          {
-            "start": "12:00",
-            "end": "14:30",
-            "ratio": 16,
-            "changed": false
-          },
-          {
-            "start": "14:30",
-            "end": "17:00",
-            "ratio": 12,
-            "changed": false
-          },
-          {
-            "start": "17:00",
-            "end": "19:30",
-            "ratio": 22,
-            "changed": false
-          },
-          {
-            "start": "19:30",
-            "end": "24:00",
-            "ratio": 12,
-            "changed": false
-          }
-        ]
-      },
-      {
-        "date": "2026-08-13",
-        "correction": 126,
-        "correction_changed": false,
-        "slots": [
-          {
-            "start": "0:00",
-            "end": "6:00",
-            "ratio": 30,
-            "changed": false
-          },
-          {
-            "start": "6:00",
-            "end": "9:00",
-            "ratio": 7.5,
-            "changed": false
-          },
-          {
-            "start": "9:00",
-            "end": "12:00",
-            "ratio": 23,
-            "changed": false
-          },
-          {
-            "start": "12:00",
-            "end": "14:30",
-            "ratio": 16,
-            "changed": false
-          },
-          {
-            "start": "14:30",
-            "end": "17:00",
-            "ratio": 12,
-            "changed": false
           },
           {
             "start": "17:00",
@@ -338,202 +93,6 @@
             "end": "24:00",
             "ratio": 12,
             "changed": true
-          }
-        ]
-      },
-      {
-        "date": "2026-08-13",
-        "correction": 126,
-        "correction_changed": false,
-        "slots": [
-          {
-            "start": "0:00",
-            "end": "6:00",
-            "ratio": 30,
-            "changed": false
-          },
-          {
-            "start": "6:00",
-            "end": "9:00",
-            "ratio": 7.5,
-            "changed": false
-          },
-          {
-            "start": "9:00",
-            "end": "12:00",
-            "ratio": 23,
-            "changed": false
-          },
-          {
-            "start": "12:00",
-            "end": "14:30",
-            "ratio": 15.5,
-            "changed": true
-          },
-          {
-            "start": "14:30",
-            "end": "17:00",
-            "ratio": 12,
-            "changed": false
-          },
-          {
-            "start": "17:00",
-            "end": "19:30",
-            "ratio": 22,
-            "changed": false
-          },
-          {
-            "start": "19:30",
-            "end": "24:00",
-            "ratio": 12,
-            "changed": false
-          }
-        ]
-      },
-      {
-        "date": "2026-08-13",
-        "correction": 126,
-        "correction_changed": false,
-        "slots": [
-          {
-            "start": "0:00",
-            "end": "6:00",
-            "ratio": 30,
-            "changed": false
-          },
-          {
-            "start": "6:00",
-            "end": "9:00",
-            "ratio": 7.5,
-            "changed": false
-          },
-          {
-            "start": "9:00",
-            "end": "12:00",
-            "ratio": 23,
-            "changed": false
-          },
-          {
-            "start": "12:00",
-            "end": "14:30",
-            "ratio": 15.5,
-            "changed": false
-          },
-          {
-            "start": "14:30",
-            "end": "17:00",
-            "ratio": 12,
-            "changed": false
-          },
-          {
-            "start": "17:00",
-            "end": "19:30",
-            "ratio": 22,
-            "changed": false
-          },
-          {
-            "start": "19:30",
-            "end": "24:00",
-            "ratio": 10,
-            "changed": true
-          }
-        ]
-      },
-      {
-        "date": "2026-08-13",
-        "correction": 126,
-        "correction_changed": false,
-        "slots": [
-          {
-            "start": "0:00",
-            "end": "6:00",
-            "ratio": 30,
-            "changed": false
-          },
-          {
-            "start": "6:00",
-            "end": "9:00",
-            "ratio": 7.5,
-            "changed": false
-          },
-          {
-            "start": "9:00",
-            "end": "12:00",
-            "ratio": 26,
-            "changed": true
-          },
-          {
-            "start": "12:00",
-            "end": "14:30",
-            "ratio": 15.5,
-            "changed": false
-          },
-          {
-            "start": "14:30",
-            "end": "17:00",
-            "ratio": 12,
-            "changed": false
-          },
-          {
-            "start": "17:00",
-            "end": "19:30",
-            "ratio": 22,
-            "changed": false
-          },
-          {
-            "start": "19:30",
-            "end": "24:00",
-            "ratio": 10,
-            "changed": false
-          }
-        ]
-      },
-      {
-        "date": "2026-08-13",
-        "correction": 126,
-        "correction_changed": false,
-        "slots": [
-          {
-            "start": "0:00",
-            "end": "6:00",
-            "ratio": 30,
-            "changed": false
-          },
-          {
-            "start": "6:00",
-            "end": "9:00",
-            "ratio": 7.5,
-            "changed": false
-          },
-          {
-            "start": "9:00",
-            "end": "12:00",
-            "ratio": 26,
-            "changed": false
-          },
-          {
-            "start": "12:00",
-            "end": "14:30",
-            "ratio": 15.5,
-            "changed": false
-          },
-          {
-            "start": "14:30",
-            "end": "17:00",
-            "ratio": 12,
-            "changed": false
-          },
-          {
-            "start": "17:00",
-            "end": "19:30",
-            "ratio": 26.5,
-            "changed": true
-          },
-          {
-            "start": "19:30",
-            "end": "24:00",
-            "ratio": 10,
-            "changed": false
           }
         ]
       }
