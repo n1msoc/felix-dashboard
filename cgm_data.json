@@ -6,11 +6,6 @@
       "trend": "falling slightly"
     },
     {
-      "t": "2026-10-29T23:59:36.340000+01:00",
-      "value": 122,
-      "trend": "falling slightly"
-    },
-    {
       "t": "2026-10-30T00:09:35.955000+01:00",
       "value": 114,
       "trend": "falling slightly"
@@ -1498,6 +1493,11 @@
     {
       "t": "2026-10-31T00:54:36.118000+01:00",
       "value": 73,
+      "trend": "steady"
+    },
+    {
+      "t": "2026-10-31T00:59:37.221000+01:00",
+      "value": 75,
       "trend": "steady"
     }
   ]
