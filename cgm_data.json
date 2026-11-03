@@ -6,11 +6,6 @@
       "trend": "falling slightly"
     },
     {
-      "t": "2026-11-02T12:49:33.661000+01:00",
-      "value": 237,
-      "trend": "falling slightly"
-    },
-    {
       "t": "2026-11-02T12:59:35.025000+01:00",
       "value": 207,
       "trend": "falling slightly"
@@ -1498,6 +1493,11 @@
     {
       "t": "2026-11-03T14:54:33.314000+01:00",
       "value": 198,
+      "trend": "rising slightly"
+    },
+    {
+      "t": "2026-11-03T14:59:35.952000+01:00",
+      "value": 200,
       "trend": "rising slightly"
     }
   ]
