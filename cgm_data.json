@@ -1,11 +1,6 @@
 {
   "series": [
     {
-      "t": "2026-11-03T13:59:32.722000+01:00",
-      "value": 128,
-      "trend": "rising slightly"
-    },
-    {
       "t": "2026-11-03T14:04:32.779000+01:00",
       "value": 136,
       "trend": "rising slightly"
@@ -1498,6 +1493,11 @@
     {
       "t": "2026-11-04T14:54:32.706000+01:00",
       "value": 139,
+      "trend": "falling slightly"
+    },
+    {
+      "t": "2026-11-04T14:59:32.952000+01:00",
+      "value": 134,
       "trend": "falling slightly"
     }
   ]
